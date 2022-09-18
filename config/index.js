@@ -66,14 +66,14 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "My friend",
+      id: "vopGIj6UUD-GQI4Xh0F-btIxWCwFY",
+      useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
+      province: "广东",
+      city: "东莞",
+      horoscopeDate: '05-13',
+      horoscopeDateType: '今日',
+      openUrl: "https://tophub.today/daily",
       festivals: [],
       customizedDateList: []
     },
@@ -116,7 +116,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "opGIj6UUD-GQI4Xh0F-btIxWCwFY",
     },
   ],
 
