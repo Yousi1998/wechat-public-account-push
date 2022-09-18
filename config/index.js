@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       name: "My friend",
-      id: "Yousi",
+      id: "opGIj6UUD-GQI4Xh0F-btIxWCwFY",
       useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
       province: "广东",
       city: "东莞",
