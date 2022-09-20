@@ -41,6 +41,19 @@ export const config = {
       festivals: [],
       customizedDateList: []
     },
+    {
+      name: "Wangshihua",
+      id: "opGIj6TPTPVexuNf1ulwnnxLuGNM",
+      useTemplateId: "Jux1eouTFuhXBpHpZiQwpIp02cgv5Hf6PbX5Qwb8qwA",
+      province: "广东",
+      city: "东莞",
+      horoscopeDate: '07-01',
+      horoscopeDateType: '今日',
+      openUrl: "https://tophub.today/daily",
+      festivals: [],
+      customizedDateList: []
+    },
+    
   ],
 
   /**
