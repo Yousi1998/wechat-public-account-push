@@ -57,7 +57,20 @@ export const config = {
       ],
       customizedDateList: []
     },
-    
+        {
+      name: "Ganli",
+      id: "opGIj6c6sDL_OQQH3F9HDMj-4WME",
+      useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
+      province: "天津",
+      city: "天津",
+      horoscopeDate: '08-19',
+      horoscopeDateType: '今日',
+      openUrl: "https://tophub.today/daily",
+      festivals: [
+      {"type": "*生日", "name": "甘梨儿", "year": "1999", "date": "08-19"},
+      ],
+      customizedDateList: []
+    },
   ],
 
   /**
@@ -70,10 +83,15 @@ export const config = {
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
     {
-      // 一般都填自己
-      name: "自己",
-      // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      name: "Ganli",
       id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
+      useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
+      province: "广东",
+      city: "东莞",
+      horoscopeDate: '05-13',
+      horoscopeDateType: '今日',
+      openUrl: "https://tophub.today/daily",
+
     },
   ],
 
