@@ -39,7 +39,7 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
       festivals: [
-        {"type": "*生日", "name": "", "year": "1998", "date": "05-13"},
+        {"type": "*生日", "name": "徐威", "year": "1998", "date": "05-13"},
       ],
       customizedDateList: []
     },
@@ -53,7 +53,7 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
       festivals: [
-        {"type": "*生日", "name": "", "year": "1999", "date": "07-01"},
+        {"type": "*生日", "name": "万石华", "year": "1999", "date": "07-01"},
       ],
       customizedDateList: []
     },
@@ -65,7 +65,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -73,7 +73,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "opGIj6UUD-GQI4Xh0F-btIxWCwFY",
+      id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
     },
   ],
 
