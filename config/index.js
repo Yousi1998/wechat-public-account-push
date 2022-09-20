@@ -60,15 +60,13 @@ export const config = {
         {
       name: "Ganli",
       id: "opGIj6c6sDL_OQQH3F9HDMj-4WME",
-      useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
+      useTemplateId: "kSN6q-rwTk7XdcHdNBTpaHmIQlddSutudn_hNHcBU7U",
       province: "天津",
       city: "天津",
       horoscopeDate: '08-19',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
-      festivals: [
-      {"type": "*生日", "name": "甘梨儿", "year": "1999", "date": "08-19"},
-      ],
+      festivals: [],
       customizedDateList: []
     },
   ],
@@ -78,14 +76,14 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
+  CALLBACK_TEMPLATE_ID: "kSN6q-rwTk7XdcHdNBTpaHmIQlddSutudn_hNHcBU7U",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
     {
-      name: "Ganli",
+      name: "自己",
       id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
-      useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
+      useTemplateId: "kSN6q-rwTk7XdcHdNBTpaHmIQlddSutudn_hNHcBU7U",
       province: "广东",
       city: "东莞",
       horoscopeDate: '05-13',
