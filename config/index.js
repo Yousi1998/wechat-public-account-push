@@ -32,25 +32,29 @@ export const config = {
     {
       name: "My friend",
       id: "opGIj6UUD-GQI4Xh0F-btIxWCwFY",
-      useTemplateId: "vKL6uos3hIcp0kk586fyIM50FnTb7WDHxi6kme7eFv0",
+      useTemplateId: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
       province: "广东",
       city: "东莞",
       horoscopeDate: '05-14',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
-      festivals: [],
+      festivals: [
+        {"type": "*生日", "name": "", "year": "1998", "date": "05-13"},
+      ],
       customizedDateList: []
     },
     {
       name: "Wangshihua",
       id: "opGIj6TPTPVexuNf1ulwnnxLuGNM",
-      useTemplateId: "Jux1eouTFuhXBpHpZiQwpIp02cgv5Hf6PbX5Qwb8qwA",
+      useTemplateId: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
       province: "广东",
       city: "东莞",
       horoscopeDate: '07-01',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
-      festivals: [],
+      festivals: [
+        {"type": "*生日", "name": "", "year": "1999", "date": "07-01"},
+      ],
       customizedDateList: []
     },
     
