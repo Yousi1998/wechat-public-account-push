@@ -60,7 +60,7 @@ export const config = {
         {
       name: "Ganli",
       id: "opGIj6c6sDL_OQQH3F9HDMj-4WME",
-      useTemplateId: "kSN6q-rwTk7XdcHdNBTpaHmIQlddSutudn_hNHcBU7U",
+      useTemplateId: "0vAOQXFPJDkYQxXUXerVEMZZts_vMLL6g1_1gx2fAwo",
       province: "天津",
       city: "天津",
       horoscopeDate: '08-19',
@@ -83,11 +83,6 @@ export const config = {
     {
       name: "自己",
       id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
-      useTemplateId: "kSN6q-rwTk7XdcHdNBTpaHmIQlddSutudn_hNHcBU7U",
-      province: "广东",
-      city: "东莞",
-      horoscopeDate: '05-13',
-      horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
 
     },
