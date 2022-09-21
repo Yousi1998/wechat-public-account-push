@@ -292,7 +292,16 @@ export const getBirthdayMessage = (festivals) => {
           message = `距离 ${ item.name } 还有${ item.diffDay }天`
         }
       }
+      // 毕业倒计时
+      if(item.type === '毕业'){
+        if (item.diffDay === 0) {
+          message = `今天是 ${ item.name } 哦，要开心！`
+        } else {
+          item.diffDay += 366;
+          message = `距离 ${ item.name } 还有${ item.diffDay }天`
+        }
 
+      }
       // 存储数据
       if (message) {
         resMessage += `${ message } \n`
