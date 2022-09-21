@@ -31,8 +31,8 @@ export const config = {
   USERS: [
     {
       name: "My friend",
-      id: "opGIj6UUD-GQI4Xh0F-btIxWCwFY",
-      useTemplateId: "CEDahUehyE2vr7aziHYI0-O5xR9ga0PKPOp0Nhsm8fg",
+      id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
+      useTemplateId: "W-IkMvckWsTpQ4OIJULgLBcwPPn9OxrGC5QW2oxVmZM",
       province: "广东",
       city: "东莞",
       horoscopeDate: '05-14',
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "Wangshihua",
       id: "opGIj6TPTPVexuNf1ulwnnxLuGNM",
-      useTemplateId: "CEDahUehyE2vr7aziHYI0-O5xR9ga0PKPOp0Nhsm8fg",
+      useTemplateId: "W-IkMvckWsTpQ4OIJULgLBcwPPn9OxrGC5QW2oxVmZM",
       province: "广东",
       city: "东莞",
       horoscopeDate: '07-01',
@@ -58,7 +58,7 @@ export const config = {
     },
         {
       name: "Ganli",
-      id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
+      id: "opGIj6c6sDL_OQQH3F9HDMj-4WME",
       useTemplateId: "W-IkMvckWsTpQ4OIJULgLBcwPPn9OxrGC5QW2oxVmZM",
       province: "天津",
       city: "天津",
@@ -66,8 +66,8 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
       festivals: [
-      {"type": "毕业", "name": "甘梨儿解放，成为富婆(毕业)", "year": "2024", "date": "06-21"},
-      {"type": "节日", "name": "甘梨儿，回家过年(春节)", "year": "2023", "date": "01-22"},
+      {"type": "毕业", "name": "甘梨儿解放成为富婆(毕业)", "year": "2024", "date": "06-21"},
+      {"type": "节日", "name": "甘梨儿回家过年(春节)", "year": "2023", "date": "01-22"},
       ],
     },
   ],
