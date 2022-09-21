@@ -59,7 +59,7 @@ export const config = {
         {
       name: "Ganli",
       id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
-      useTemplateId: "CEDahUehyE2vr7aziHYI0-O5xR9ga0PKPOp0Nhsm8fg",
+      useTemplateId: "W-IkMvckWsTpQ4OIJULgLBcwPPn9OxrGC5QW2oxVmZM",
       province: "天津",
       city: "天津",
       horoscopeDate: '08-19',
