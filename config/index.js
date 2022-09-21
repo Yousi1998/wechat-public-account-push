@@ -32,7 +32,7 @@ export const config = {
     {
       name: "My friend",
       id: "opGIj6UUD-GQI4Xh0F-btIxWCwFY",
-      useTemplateId: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
+      useTemplateId: "CEDahUehyE2vr7aziHYI0-O5xR9ga0PKPOp0Nhsm8fg",
       province: "广东",
       city: "东莞",
       horoscopeDate: '05-14',
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "Wangshihua",
       id: "opGIj6TPTPVexuNf1ulwnnxLuGNM",
-      useTemplateId: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
+      useTemplateId: "CEDahUehyE2vr7aziHYI0-O5xR9ga0PKPOp0Nhsm8fg",
       province: "广东",
       city: "东莞",
       horoscopeDate: '07-01',
@@ -55,12 +55,11 @@ export const config = {
       festivals: [
         {"type": "*生日", "name": "万石华", "year": "1999", "date": "07-01"},
       ],
-      customizedDateList: []
     },
         {
       name: "Ganli",
       id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
-      useTemplateId: "yqt67q3FdMtqagvCot8lSmZ7Oa6NnM7P2elh3K7J5u4",
+      useTemplateId: "CEDahUehyE2vr7aziHYI0-O5xR9ga0PKPOp0Nhsm8fg",
       province: "天津",
       city: "天津",
       horoscopeDate: '08-19',
