@@ -59,14 +59,17 @@ export const config = {
     },
         {
       name: "Ganli",
-      id: "opGIj6c6sDL_OQQH3F9HDMj-4WME",
-      useTemplateId: "0vAOQXFPJDkYQxXUXerVEMZZts_vMLL6g1_1gx2fAwo",
+      id: "opGIj6XJ3r5Lbg5b3poK8FwOJRKU",
+      useTemplateId: "06ebcj1lXJ8r63VQ4Uf-O1c9XIrkw_GTvFRHd3NM4hY",
       province: "天津",
       city: "天津",
       horoscopeDate: '08-19',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/daily",
-      festivals: [],
+      festivals: [
+      {"type": "节日", "name": "甘梨儿解放，成为富婆(毕业)", "year": "2024", "date": "06-21"},
+      {"type": "节日", "name": "甘梨儿回家过年(春节)", "year": "2023", "date": "01-22"},
+      ],
       customizedDateList: []
     },
   ],
